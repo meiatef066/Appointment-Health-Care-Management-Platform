@@ -27,7 +27,3 @@ Included materials:
 4. **Use Case Documents** → Explore user interactions and system scenarios.  
  
 ---
-
-## 📜 License
-This project is licensed under the **MIT License** – you are free to use, share, and modify with attribution.  
-"""
